@@ -1,0 +1,4 @@
+
+
+On remarque que les images sont chargées en cascade ( pas tous en meme temps), les une aprés les autres.
+On constate aussi que la page s'est chargé en moins d'une seconde ( assez rapidement ).
