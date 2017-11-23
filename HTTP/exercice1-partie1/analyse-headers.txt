@@ -1,0 +1,24 @@
+
+Entete de la requete :
+Host: localhost
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0; Firefox 52.4.0 - 111442-1800920044-1.37 // Details sur le navigateur
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8 // Type de reponse et format accepté
+Accept-Language: en-US,en;q=0.5 //Language par defaut
+Accept-Encoding: gzip, deflate //Type d'encodage gzip
+Cookie: PHPSESSID=pi9f1s2sva4nflan875emgscl6 //ID du Cookie
+
+
+
+Entete de la reponse:
+Accept-Ranges: bytes
+Connection: Keep-Alive
+Content-Length: 189
+Content-Type: text/html
+Date: Thu, 23 Nov 2017 13:41:57 GMT
+Etag: "bd-55ea6994ffa77"
+Keep-Alive: timeout=5, max=100
+Last-Modified: Thu, 23 Nov 2017 13:41:53 GMT
+Server: Apache/2.4.9 (Win64) PHP/5.5.12
+
+
+
