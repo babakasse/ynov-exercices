@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="551700e8-1b04-419b-97e0-bbabe47abe14" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/POO/exercice2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/POO/exercice3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/POO/exercice4/Calculator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/POO/exercice4/TaxIncludedCalculator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/POO/exercice4/utilisation_fonctions.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/POO/Triangle.php" afterPath="$PROJECT_DIR$/POO/Triangle.php" />
     </list>
@@ -57,16 +60,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="composer.lock" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/COMPOSER/composer.lock">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HTTP/exercice2/index.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -97,8 +90,8 @@
       <file leaf-file-name="Triangle.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/POO/Triangle.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="514">
-              <caret line="100" column="5" lean-forward="true" selection-start-line="100" selection-start-column="5" selection-end-line="100" selection-end-column="5" />
+            <state relative-caret-position="294">
+              <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
               <folding>
                 <element signature="e#6#89#0#PHP" expanded="true" />
               </folding>
@@ -106,7 +99,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="exercice2.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Calculator.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/POO/exercice4/Calculator.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="609">
+              <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="utilisation_fonctions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/POO/exercice4/utilisation_fonctions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+              <folding>
+                <element signature="e#6#89#0#PHP" expanded="true" />
+                <marker date="1511538099683" expanded="true" signature="159:498" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exercice2.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/POO/exercice2.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="441">
@@ -119,31 +135,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="analyse-partie3" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HTTP/exercice1-partie3/analyse-partie3">
+      <file leaf-file-name="TaxIncludedCalculator.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/POO/exercice4/TaxIncludedCalculator.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="87" lean-forward="false" selection-start-line="3" selection-start-column="87" selection-end-line="3" selection-end-column="87" />
+            <state relative-caret-position="231">
+              <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="analyse-headers" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HTTP/exercice1-partie1/analyse-headers">
+      <file leaf-file-name="exercice3.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/POO/exercice3.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="analyse-exercice2" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HTTP/exercice2/analyse-exercice2">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -181,8 +187,12 @@
         <option value="$PROJECT_DIR$/COMPOSER/composer.json" />
         <option value="$PROJECT_DIR$/COMPOSER/exercice2/index.html" />
         <option value="$PROJECT_DIR$/COMPOSER/exercice2/index.php" />
-        <option value="$PROJECT_DIR$/POO/Triangle.php" />
         <option value="$PROJECT_DIR$/POO/exercice2.php" />
+        <option value="$PROJECT_DIR$/POO/Triangle.php" />
+        <option value="$PROJECT_DIR$/POO/exercice4/exercice4.php" />
+        <option value="$PROJECT_DIR$/POO/exercice4/utilisation_fonctions.php" />
+        <option value="$PROJECT_DIR$/POO/exercice4/Calculator.php" />
+        <option value="$PROJECT_DIR$/POO/exercice4/TaxIncludedCalculator.php" />
       </list>
     </option>
   </component>
@@ -240,6 +250,24 @@
               <option name="myItemId" value="ynov-exercices" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="POO" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercice4" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ynov-exercices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ynov-exercices" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -259,6 +287,7 @@
       <recent name="C:\wamp\www\ynov-exercices\HTTP\exercice2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\ynov-exercices\POO\exercice4" />
       <recent name="C:\PROJECTS\ynov-exercices\HTTP\exercice1-partie1" />
     </key>
   </component>
@@ -354,12 +383,12 @@
       <option name="presentableId" value="Default" />
       <updated>1511442920775</updated>
       <workItem from="1511442922235" duration="303000" />
-      <workItem from="1511443324852" duration="15696000" />
+      <workItem from="1511443324852" duration="19076000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15999000" />
+    <option name="totallyTimeSpent" value="19379000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -545,16 +574,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/POO/Triangle.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="514">
-          <caret line="100" column="5" lean-forward="true" selection-start-line="100" selection-start-column="5" selection-end-line="100" selection-end-column="5" />
-          <folding>
-            <element signature="e#6#89#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/COMPOSER/exercice2/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -568,6 +587,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/POO/exercice4/exercice4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POO/Triangle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding>
+            <element signature="e#6#89#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POO/exercice3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POO/exercice4/utilisation_fonctions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+          <folding>
+            <element signature="e#6#89#0#PHP" expanded="true" />
+            <marker date="1511538099683" expanded="true" signature="159:498" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POO/exercice4/Calculator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/POO/exercice2.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
@@ -576,6 +640,14 @@
             <element signature="e#6#89#0#PHP" expanded="true" />
             <marker date="1511532160626" expanded="true" signature="687:748" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POO/exercice4/TaxIncludedCalculator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
