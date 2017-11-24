@@ -7,6 +7,6 @@
  */
 
 // Redirection vers la page index de l'exercice 1 partie 2
-header('Location: ../exercice1-partie1/index.html');
+header('Location: ../exercice1-partie1/index.php');
 
 ?>
