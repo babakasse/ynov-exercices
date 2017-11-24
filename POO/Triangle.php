@@ -91,9 +91,9 @@ class Triangle
         }
     }
 
-    //BC² = AC² + AB².
+    //A² = B² + C².
     public  function est_recatangle(){
-        if(pow($this->_cote_B * $this->_cote_C,2) == pow($this->_cote_A * $this->_cote_C,2 ) + pow($this->_cote_A * $this->_cote_B,2 )){
+        if(pow($this->_cote_A,2) == pow($this->_cote_B,2 ) + pow($this->_cote_C,2 )){
             return true;
         }else{
             return false;
