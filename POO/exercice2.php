@@ -21,15 +21,15 @@ if($_Triangle_Rectangle->est_recatangle()){
 }
 
 if($_Triangle_Isocele->est_isocelle()){
-    echo '<h2>le deusieme est vraiment isocele </h2> ';
+    echo '<h1>le deusieme est vraiment isocele </h1> ';
 }
 
 if($_Triangle_scalene->est_scaléne()){
-    echo '<h3>C est cool le troisieme est scalene </h3>';
+    echo '<h1>C est cool le troisieme est scalene </h1>';
 }
 
 if($_Triangle_Equilateral->est_equilateral()){
-    echo '<h4>Et enfin le dernier est bel et bien equilateral </h4>';
+    echo '<h1>Et enfin le dernier est bel et bien equilateral </h1>';
 }
 
 ?>
